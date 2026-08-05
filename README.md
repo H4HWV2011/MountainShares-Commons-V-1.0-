@@ -1,18 +1,38 @@
-# MountainShares-Commons-V-1.0
+# MountainShares Commons
 
-A civic technology ecosystem combining:
+## Overview
 
-- community economics
-- participatory governance
-- geographic intelligence
-- artificial learning systems
-- local resilience networks
+MountainShares Commons is a civic technology ecosystem combining:
 
-## Relationship to Other Repositories
+- Community economics
+- Participatory governance
+- Geographic intelligence
+- Artificial learning systems
 
-MountainShares-Commons-V-1.0
-contains the current integrated architecture.
+## Repository Purpose
 
-msjarvis-public-docs
-contains historical documentation, research,
-and development records.
+This repository contains the canonical architecture documentation
+for MountainShares Commons.
+
+## Repository Relationship
+
+### MountainShares-Commons-V-1.0-
+
+Current architecture and system documentation.
+
+### msjarvis-public-docs
+
+Historical research, previous specifications,
+development records, and documentation history.
+
+## Architecture
+
+00-Foundation/
+
+Contains:
+
+- Definitions
+- Entities
+- Dependencies
+- Migration architecture
+- Repository design
